@@ -1,0 +1,17 @@
+{
+  "name": "NodeJsApp",
+  "description": "Sample App",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "Vave",
+  "contributors": [],
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
